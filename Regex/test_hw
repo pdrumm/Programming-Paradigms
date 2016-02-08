@@ -1,0 +1,2 @@
+#! /bin/tcsh
+sed -n -E -f homework.sed input.txt
